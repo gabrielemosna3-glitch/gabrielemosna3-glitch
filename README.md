@@ -1,9 +1,9 @@
 # Hi, I'm Gabriele Mosna 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Gabriele Mosna - Software Developer, 3D Maker & Embedded Builder">
+  <source media="(prefers-color-scheme: dark)" srcset="./https://raw.githubusercontent.com/gabrielemosna3-glitch/gabrielemosna3-glitch/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./https://raw.githubusercontent.com/gabrielemosna3-glitch/gabrielemosna3-glitch/main/light.svg">
+  <img src="./https://raw.githubusercontent.com/gabrielemosna3-glitch/gabrielemosna3-glitch/main/dark.svg" alt="Gabriele Mosna - Software Developer, 3D Maker & Embedded Builder">
 </picture>
 
 <p align="center">
